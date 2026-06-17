@@ -60,7 +60,7 @@ A risk score ranging from 0 to 100 points based on six clinical factors, followi
 | 55–74  | 🟠 High      | Medical consultation within the next month |
 | 75–100 | 🔴 Very High | Priority care / urgent referral            |
 
-> ⚠️ This score is intended as a clinical prioritization tool and does not replace validated 10-year cardiovascular risk models such as Framingham or SCORE2.
+> This score is intended as a clinical prioritization tool and does not replace validated 10-year cardiovascular risk models such as Framingham or SCORE2.
 
 ---
 
